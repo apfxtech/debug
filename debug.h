@@ -4,7 +4,6 @@
 #define DEBUG_LEVEL_ERROR   1   // ошибки
 #define DEBUG_LEVEL_WARN    2   // + предупреждения
 #define DEBUG_LEVEL_INFO    3   // + информация
-//#define DEBUG_LEVEL_ITER - режим с возвратом каретки в циклах (планируется)
 #define DEBUG_LEVEL_DEBUG   4   // + отладка
 #define DEBUG_LEVEL_TRACE   5   // + трассировка
 
